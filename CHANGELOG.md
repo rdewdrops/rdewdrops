@@ -1,4 +1,4 @@
-# Change Log
+﻿# Change Log
 
 All notable changes to this project will be documented in this file.
 
@@ -184,7 +184,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Changed
 - Update gems.
 - Remove Octopress dependency.
-- Replace `{% highlight %}` tags with GitHub Flavored Markdown backticks.
+# - Replace `{% highlight %}` tags with GitHub Flavored Markdown backticks.
 - Replace custom `feed.xml` with [jekyll-feed](https://github.com/jekyll/jekyll-feed) plugin.
 
 ## [2.2.3] - 05-05-2016
@@ -264,7 +264,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Fixed
 - Fix external links not being handled correctly in top navigation.
-- Fix code syntax highlighting CSS.
+# - Fix code syntax highlighting CSS.
 
 ## [1.2.9] - 08-05-2013
 
