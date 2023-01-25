@@ -91,17 +91,20 @@ defaults:
 
 # Site Author
 author:
-  name:
-  picture:
-  email:
-  twitter:
+  name: Religious Dewdrops
+  picture: /images/bio-photo.png
+  email: religious.dewdrops@gmail.com
+  twitter: R_Dewdrops
   links:
-    - title:
-      url:
-      icon:
+    - title: Twitter
+      url: https://https://twitter.com/R_Dewdrops
+      icon: fab fa-twitter-square
 
 # Footer Links
 footer_links:
+  - title: Twitter
+    url: https://https://twitter.com/R_Dewdrops
+    icon: fab fa-twitter-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
