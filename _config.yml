@@ -21,7 +21,7 @@ title: "Religious Dewdrops"
 description: "Useful knowledge, one drop at a time"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://rdewdrops.github.io" # the base hostname & protocol for your site e.g. https://mmistakes.github.io
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: # path of site logo, e.g. "/images/bio-photo.png"
 date_format: "%B %-d, %Y"
 read_time: true # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -38,7 +38,7 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: # site's Twitter username, e.g. "mmistakes"
+  username: "R_Dewdrops" # site's Twitter username, e.g. "mmistakes"
 
 # Liquid
 liquid:
@@ -58,8 +58,8 @@ feed:
 search_full_content: true # can have performance implications for large sites
 
 # Taxonomy pages
-# category_archive_path: "/categories/#"
-# tag_archive_path: "/tags/#"
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
